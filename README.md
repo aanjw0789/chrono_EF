@@ -3,7 +3,7 @@ Chronosequence modeling for emission factor of seagrass ecosystem carbon invento
 
 ## Chronosequence-based Seagrass Carbon Emission Factors (Indonesia)
 
-Code by: A'an J. Wahyudi (Dec 1, 2025) generated using assistance of OpenAI GPT 5.1.
+Code by: A'an J. Wahyudi (Dec 1, 2025); the code is generated using the assistance of OpenAI GPT 5.1 and curated by the author.
 This repository contains a modular workflow to compute **carbon emission factors (EF)**
 for seagrass ecosystems using **chronosequence modelling** and the
 **Seagrass Ecological Quality Index (SEQI)**.
